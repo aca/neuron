@@ -12,6 +12,7 @@ Here are some public Zettelkastens managed by neuron:
 - [brain.jaredweakly.com](https://brain.jaredweakly.com/)
 - [politicalnotes.org](https://politicalnotes.org/) - demonstrates use of title IDs
 - [rib.srid.ca](https://rib.srid.ca/) ([source](https://github.com/srid/rib/tree/master/guide)): Rib project website.
+- [aca.github.io](https://aca.github.io/)
 
 :::{.ui .message}
 If you are hosting your own Zettelkasten publicly and would like to be included this list, edit this page (using the link below) to open a pull request.
